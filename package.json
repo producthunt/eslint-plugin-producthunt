@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-producthunt",
+  "version": "0.0.1",
+  "description": "Product Hunt-specific eslint rules and configuration",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "producthunt/eslint-plugin-producthunt",
+  "author": "Product Hunt, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/producthunt/eslint-plugin-producthunt/issues"
+  },
+  "homepage": "https://github.com/producthunt/eslint-plugin-producthunt#readme",
+  "files": [
+    "index.js",
+    "rules"
+  ],
+  "peerDependencies": {
+    "eslint": ">=2"
+  },
+  "devDependencies": {
+    "eslint": "^2.8.0"
+  }
+}
